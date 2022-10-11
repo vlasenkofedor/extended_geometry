@@ -1,4 +1,4 @@
-# Textured geometry with rounded corners
+# Textured geometry with rounded corners Three.js
 
 ## Git clone
 
